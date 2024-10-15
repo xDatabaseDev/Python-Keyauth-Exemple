@@ -6,7 +6,7 @@
 
 - [À Propos](https://github.com/xDatabaseDev/Python-Keyauth-Exemple/tree/main?tab=readme-ov-file#-%C3%A0-propos)
 - [Fonctionnalités](https://github.com/xDatabaseDev/Python-Keyauth-Exemple/tree/main?tab=readme-ov-file#-fonctionnalit%C3%A9s)
-- [Avertissement](#⚠️-avertissement)
+- [Avertissement](https://github.com/xDatabaseDev/Python-Keyauth-Exemple/tree/main?tab=readme-ov-file#%EF%B8%8F-avertissement)
 - [Configuration](https://github.com/xDatabaseDev/Python-Keyauth-Exemple/tree/main?tab=readme-ov-file#%EF%B8%8F-configuration)
 - [Utilisation](https://github.com/xDatabaseDev/Python-Keyauth-Exemple/tree/main?tab=readme-ov-file#%EF%B8%8F-utilisation)
 - [Contributions](https://github.com/xDatabaseDev/Python-Keyauth-Exemple/tree/main?tab=readme-ov-file#-contributions)
