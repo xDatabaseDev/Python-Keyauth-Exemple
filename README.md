@@ -83,4 +83,3 @@ Les contributions sont les bienvenues ! Si vous avez des suggestions ou des amé
 ---
 
 🎉 **Merci d'utiliser cet exemple Python pour KeyAuth !** Si vous avez des questions, n'hésitez pas à demander de l'aide dans le serveur Discord ou de faire une issue sur github.
-```
