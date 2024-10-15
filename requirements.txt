@@ -1,0 +1,6 @@
+keyauth
+colorama
+fade
+pycryptodome
+requests
+pywin32
