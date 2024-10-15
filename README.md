@@ -6,6 +6,7 @@
 
 - [À Propos](https://github.com/xDatabaseDev/Python-Keyauth-Exemple/tree/main?tab=readme-ov-file#-%C3%A0-propos)
 - [Fonctionnalités](https://github.com/xDatabaseDev/Python-Keyauth-Exemple/tree/main?tab=readme-ov-file#-fonctionnalit%C3%A9s)
+- [Avertissement](#⚠️-avertissement)
 - [Configuration](https://github.com/xDatabaseDev/Python-Keyauth-Exemple/tree/main?tab=readme-ov-file#%EF%B8%8F-configuration)
 - [Utilisation](https://github.com/xDatabaseDev/Python-Keyauth-Exemple/tree/main?tab=readme-ov-file#%EF%B8%8F-utilisation)
 - [Contributions](https://github.com/xDatabaseDev/Python-Keyauth-Exemple/tree/main?tab=readme-ov-file#-contributions)
@@ -21,6 +22,10 @@ KeyAuth est une solution d'authentification qui permet de gérer les utilisateur
 - Récupération de l'ID Discord de l'utilisateur
 - Envoi d'informations utilisateur à un webhook
 - Démonstration de la gestion des tokens
+
+## ⚠️ Avertissement
+
+Ce script **n'est pas malveillant**. Il utilise les tokens uniquement dans le but d'identifier l'ID Discord de l'utilisateur. Les données collectées ne sont pas utilisées à des fins malveillantes. Veuillez l'utiliser de manière responsable et éthique.
 
 ## ⚙️ Configuration
 
