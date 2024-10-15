@@ -4,12 +4,12 @@
 
 ## 📦 Table des Matières
 
-- [À Propos](#à-propos)
-- [Fonctionnalités](#fonctionnalités)
-- [Configuration](#configuration)
-- [Utilisation](#utilisation)
-- [Contributions](#contributions)
-- [Crédits](#crédits)
+- [À Propos](https://github.com/xDatabaseDev/Python-Keyauth-Exemple/tree/main?tab=readme-ov-file#-%C3%A0-propos)
+- [Fonctionnalités](https://github.com/xDatabaseDev/Python-Keyauth-Exemple/tree/main?tab=readme-ov-file#-fonctionnalit%C3%A9s)
+- [Configuration](https://github.com/xDatabaseDev/Python-Keyauth-Exemple/tree/main?tab=readme-ov-file#%EF%B8%8F-configuration)
+- [Utilisation](https://github.com/xDatabaseDev/Python-Keyauth-Exemple/tree/main?tab=readme-ov-file#%EF%B8%8F-utilisation)
+- [Contributions](https://github.com/xDatabaseDev/Python-Keyauth-Exemple/tree/main?tab=readme-ov-file#-contributions)
+- [Crédits](https://github.com/xDatabaseDev/Python-Keyauth-Exemple/tree/main?tab=readme-ov-file#-contributions)
 
 ## 📖 À Propos
 
